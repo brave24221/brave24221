@@ -11,6 +11,26 @@
 </a>
 
 <br/>
+<table>
+  <tr>
+    <th>Property</th>
+    <th>Data</th>
+  </tr>
+  <tr>
+    <td>Databases</td>
+    <td>INPUT DATA</TD>
+  <tr>
+    <td>Languages</td>
+    <td>INPUT DATA</td> <!-- HTML, CSS -->
+  </tr>
+  <tr>
+    <td>Operating Systems</td>
+    <td>INPUT DATA</td> <!-- Windows, Ubuntu -->
+  </tr>
+</table>
+ 
+
+<br/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brave24221&theme=nord_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brave24221&theme=nord_dark) 
