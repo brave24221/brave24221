@@ -18,4 +18,8 @@
 
 </p>
 
-|  **Language** |  ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=Python&logoColor=green)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) |
+<!-- |  **Language** |  ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=Python&logoColor=green)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) | -->
+
+| Property | Data |
+| --- | --- |
+|**Language** | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=Python&logoColor=green)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) | |
