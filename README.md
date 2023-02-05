@@ -6,9 +6,6 @@
 <a href="https://github.com/brave24221">
    <img src="https://github-stats-alpha.vercel.app/api?username=brave24221&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
-<a href="https://www.linkedin.com/in/konstantinos-georgiou/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
 <a href="https://github.com/brave24221">
     <img src="https://komarev.com/ghpvc/?username=brave24221&label=Visitors&color=0e75b6&style=flat">
 </a>
