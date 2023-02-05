@@ -11,29 +11,11 @@
 </a>
 
 <br/>
-<table>
-  <tr>
-    <th>Property</th>
-    <th>Data</th>
-  </tr>
-  <tr>
-    <td>Databases</td>
-    <td>INPUT DATA</TD>
-  <tr>
-    <td>Languages</td>
-    <td>INPUT DATA</td> <!-- HTML, CSS -->
-  </tr>
-  <tr>
-    <td>Operating Systems</td>
-    <td>INPUT DATA</td> <!-- Windows, Ubuntu -->
-  </tr>
-</table>
- 
-
-<br/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brave24221&theme=nord_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brave24221&theme=nord_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brave24221&theme=nord_dark)
 
 </p>
+
+|  **Language** |  ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=Python&logoColor=green)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) |
