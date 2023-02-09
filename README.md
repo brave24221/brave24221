@@ -1,5 +1,5 @@
 <a href="https://github.com/brave24221">
-    <img src="https://komarev.com/ghpvc/?username=brave24221&label=Visitors&color=0e75b6&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=brave24221&label=Visitors&color=0e75b6&style=plastic">
 </a>
 
 <p align="center">
