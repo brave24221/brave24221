@@ -16,7 +16,7 @@
 | Property | Data |
 | --- | --- |
 |**Languages** | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=Python&logoColor=green)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) | |
-|**Operating Systems** | Coming soon | |
+|**Operating Systems** | ![Windows Badge](https://img.shields.io/badge/-Windows-black?style=plastic&logo=Windows&logoColor=blue) ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-black?style=plastic&logo=Ubuntu&logoColor=orange) | |
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brave24221&theme=nord_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brave24221&theme=nord_dark) 
